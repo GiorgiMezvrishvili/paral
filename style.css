@@ -1,0 +1,342 @@
+
+
+
+.container1{
+    width: 100%;
+    height: 800px;
+    background-image: url(images/2.jpg);
+    background-size: cover;
+
+    
+}
+
+.info{
+    color: white;
+    margin-left: 8%;
+    
+}
+#welcome{
+    padding-top: 20%;
+    color: #CFA670;
+    font-family:Brush Script MT, Brush Script Std, cursive ;
+    font-size: 40pt;
+    margin-bottom: 0%;
+    padding-bottom: 0px;
+}
+#grande{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 60pt;
+    margin-bottom: 0%;
+    padding-bottom: 0px;
+   
+    
+    
+}
+#making{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+    margin-top: 0%;
+    padding-top: 0px;
+}
+
+
+.contact1{
+    position: absolute;
+    z-index: 5;
+    position: sticky;
+    top: 0%;
+    color: rgb(253, 253, 253);
+    background-color: #BA9565;
+    width: 100%;
+    height: 25px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.contactinfo1{
+    margin-left: 8.5%;
+}
+.contactinfo2{
+    margin-left: 46%;
+}
+.navbar1{
+    position: absolute;
+    z-index: 5;
+    position: sticky;
+    top: 3.2%;
+}
+.navbar{
+    
+    font-family: helvetica;
+    width: 100%;
+}
+.navbar-brand{
+    margin-right:32%;
+    margin-left: 8%;
+}
+.mr{
+    margin-top: 10px;
+}
+.rm{
+    width: 30px;
+    height: 4px;
+    background-color: rgb(3, 3, 3);
+    margin-top: 3px;
+    margin-left: 10px;
+    
+}
+.container2{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    margin-top: 4%;
+    margin-bottom: 2%;
+    color: rgb(69, 69, 70);
+}
+.john{
+font-family: Brush Script MT, Brush Script Std, cursive ;
+}
+.container3{
+    width: 100%;
+    height: 33rem;
+}
+.discover{
+    position: absolute;
+    background-color:white;
+    width: 40%;
+    z-index: 2;
+    margin-left: 54%;
+    margin-top: 6%;
+    padding-left: 2%;
+    font-family: helvetica;
+}  
+   
+.images{
+    position: absolute;
+  z-index: 1;
+    margin-left: 10%;
+    width: 60%;
+    height: 36.5rem;
+    display: flex;
+    flex-direction: row;
+    
+}
+#discover{
+    color: #CFA670;
+    font-family: Brush Script MT, Brush Script Std, cursive ;
+    font-size: 4rem;
+    margin-top: 0%;
+    padding-bottom: 0%;
+}
+#story{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 4rem;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+#ultimate{
+    font-size: 0.8rem;
+    margin-bottom: 4%;
+}
+#sed{
+    font-size: 0.9rem;
+    margin-bottom: 4%;
+}
+.parallax{
+    text-align: center;
+    background-image: url(images/16.jpg);
+    min-height: 350px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.container4{
+    background-color: white;
+    width: 100%;
+    height: 700px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.card{ 
+   
+    width: 25%;
+    height:65%;
+}
+.card-img-top{
+
+    height: 80%;
+}
+.card-title{
+    display: inline;
+}
+.card-text{
+
+    display: inline-block;
+}
+
+.btn-primary{
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.5rem;
+    background-color:#CFA670 ;
+    border-color: #CFA670;  
+}
+.container5{
+    padding-top: 7%;
+    width: 100%;
+    height: 40rem;
+}
+.parallax1{
+    background-image: url(images/18.jpg);
+    min-height: 600px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.cw-75{
+    
+    border-color:white;
+
+    position: absolute;
+    background-color:#FFFFFF;
+    z-index: 2;
+    margin-left: 55%;
+    margin-top: 2%;
+    padding-left: 2%;
+    font-family: helvetica;
+}
+.card-body{
+    margin: 0%;
+    padding: 0%;
+    border: none;
+}
+#EXPERIENCE{
+
+    color: white;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+#Delightful{
+    padding-top: 20%;
+    font-family: Brush Script MT, Brush Script Std, cursive ;
+    color: #CFA670;
+}
+.cardh{
+    margin-bottom: 5%;
+}
+.container6{
+    margin-bottom: 12%;
+    margin-top: 5%;
+    padding-top: 7%;
+    width: 100%;
+    height: 40rem;
+}
+.cw6-75{
+    
+    position: absolute;
+    background-color:#FFFFFF;
+    z-index: 2;
+    margin-left: 10%;
+    margin-top: 2%;
+    padding-left: 2%;
+    font-family: helvetica;
+}
+.cardimg{
+    margin-left: 45%;
+    
+}
+.container6{
+    width: 100%;
+    height: 35rem;
+}
+.Our{
+   
+    position: absolute;
+    background-color:white;
+    width: 40%;
+    height: 50%;
+    z-index: 2;
+    margin-left: 54%;
+    margin-top: 6%;
+    padding-left: 2%;
+    font-family: helvetica;
+}  
+.contactinfo3{
+    padding-top: 5%;
+    height: 22rem;
+    background-color:#262626 ;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.gallery{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.galimg{
+    padding: 1%;
+}
+.ci3{
+    
+    color: white;
+    background-color:#262626;
+    border: none
+}
+.grand{
+    font-size: 2rem;
+}
+.grand2{
+    margin-left: 4%;
+    color:white;
+    font-size: 0.7rem;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.textcontact{
+    font-size: 0.8rem;
+}
+.icon2{
+    font-size: 1.7rem;
+    margin: 1%
+    
+}
+.h6{
+   
+     font-size: 10pt;  
+}
+.h5{
+    font-size: 1rem;
+      
+}
+.mb-2{
+    font-size: 0.8rem;
+    margin-top: 2%;
+   
+}
+.icon3{
+    padding-right: 1.5%;
+}
+.and{
+    
+    width: 100%;
+    height: 4rem;
+    background-color: #1B1B1B;
+    padding-top: 1.2%;
+}
+.andnav1{
+    margin-left: 8%;
+    font-size: 0.7rem;
+    display: inline;
+    margin-right: 40%;
+}
+.andnav2{
+    display: inline;
+    color: rgb(250, 249, 249);
+    padding: 0.8%;
+}
+
